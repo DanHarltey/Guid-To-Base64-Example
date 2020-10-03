@@ -3,7 +3,7 @@ using Xunit;
 
 namespace EfficientGuids.Tests
 {
-    public class UnitTest1
+    public class EfficientGuidsTests
     {
         [Fact]
         public void Test1()
